@@ -22,4 +22,10 @@ Download [cos106-student-portfolio-source.zip](cos106-student-portfolio-source.z
 
 The contact form validates input in the browser and does not transmit messages to a server. The study planner stores tasks in the browser's local storage.
 
-The hosted site URL and report are provided in the submitted PDF.
+## Published site
+
+[Open the live student portfolio](https://student-portfolio-website--migozspack.replit.app/student-portfolio/)
+
+## Submission report
+
+[Download the COS 106 submission report](cos106-student-portfolio-submission.pdf)
